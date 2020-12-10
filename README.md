@@ -1,2 +1,2 @@
 # Maze-Navigation-Robot
- I will share this with __________.
+For robotics club.
