@@ -1,0 +1,4 @@
+Digital write high on forward or backward wire
+Power into VIN pin to and connect GND to ground of battery
+Same power source to arduino and Motor control to work
+W3School C++ Course

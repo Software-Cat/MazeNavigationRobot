@@ -1,0 +1,10 @@
+1. Function for turning robot a certain angle deg (or a certain number of miliseconds)
+1.5. Variable time input from serial to turn robot a certain angle deg (or a certain number of miliseconds)
+2. Integrate LDR detection (Reading Unreliable)
+3. Simulate motor with 4 LEDs.
+4. When on ground (not tape), if is first turn, turn 45 deg. If second turn, turn -90 deg, if thrid turn 90 ...
+5. (When the robot is ready) integrate algorithm to robot.
+
+Tips:
+Testing
+When on black one wheel move, when on white the other wheel move
